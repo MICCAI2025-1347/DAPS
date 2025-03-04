@@ -1,0 +1,1 @@
+fast -t 1 -n 3 -b -B -o MNI152_T1_1mm_FAST MNI152_T1_1mm_brain.nii
